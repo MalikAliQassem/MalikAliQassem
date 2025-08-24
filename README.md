@@ -32,7 +32,7 @@
 </p>
 
 ---
-
+<!--
 ### 📫 كيف تجدني
 
 <p align="left">
@@ -41,7 +41,7 @@
 <a href="https://your-website.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/browser.svg" alt="your-website" height="30" width="40" /></a>
 </p>
 
-<!--
+
 **MalikAliQassem/MalikAliQassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
