@@ -27,9 +27,9 @@
 ### 📊 إحصائياتي على GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalikAliQassem&show_icons=true&theme=radical&locale=ar" alt="إحصائيات GitHub" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAliQassem&layout=compact&theme=radical&locale=ar" alt="أكثر اللغات استخدامًا" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikAliQassem&show_icons=true&theme=dark&locale=ar" alt="إحصائيات GitHub" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAliQassem&layout=donut&theme=dark&locale=ar" alt="أكثر اللغات استخدامًا" />
 </p>
 
 ---
