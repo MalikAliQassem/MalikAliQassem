@@ -21,6 +21,16 @@
 
 ### 💻 لغات البرمجة
 <a href="https://github.com/MalikAliQassem">
+  <img alt="MalikAliQassem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAliQassem&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&hide=html,css,scss" height="195px"/>
+</a>
+
+### 📈 إحصائيات عامة
+<a href="https://github.com/MalikAliQassem">
+  <img alt="MalikAliQassem's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MalikAliQassem&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&line_height=28&rank_icon=github" height="195px"/>
+</a>
+
+### 💻 لغات البرمجة
+<a href="https://github.com/MalikAliQassem">
   <img alt="MalikAliQassem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAliQassem&langs_count=12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="195px"/>
 </a>
 
@@ -43,32 +53,73 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend Development**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### **Databases & ORM**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 📌 المشاريع البارزة
+### **Tools & Platforms**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 💼 خبرات تقنية متقدمة
+
+### **C# & .NET Ecosystem**
+- ASP.NET Core Web APIs
+- Entity Framework Core
+- LINQ & Lambda Expressions
+- Dependency Injection
+- Middleware & Filters
+
+### **Angular Framework**
+- Components & Directives
+- Services & Dependency Injection
+- RxJS & Observables
+- Angular Forms (Reactive & Template)
+- Routing & Guards
+- State Management
+
+### **Node.js Development**
+- Express.js Framework
+- RESTful API Design
+- Middleware Implementation
+- Error Handling
+- Authentication & Authorization
+
+### **Database Management**
+- SQL Query Optimization
+- Database Design & Normalization
+- Stored Procedures & Functions
+- Transactions & ACID Properties
+
+### **Containerization**
+- Docker Images & Containers
+- Docker Compose
+- Multi-stage Builds
+- Container Orchestration Basics
+
+<!-- ## 📌 المشاريع البارزة
 
 ### 🎯 تطبيقات Flutter المميزة
 - **[E-Commerce App](https://github.com/MalikAliQassem/ecommerce-app)** - تطبيق تجارة إلكترونية متكامل
 - **[Weather App](https://github.com/MalikAliQassem/weather-app)** - تطبيق طقس بتصميم حديث
 - **[Task Manager](https://github.com/MalikAliQassem/task-manager)** - مدير مهام شخصي
-- **[Finance Tracker](https://github.com/MalikAliQassem/finance-tracker)** - متتبع المصاريف الشخصية
+- **[Finance Tracker](https://github.com/MalikAliQassem/finance-tracker)** - متتبع المصاريف الشخصية -->
 
 <!-- ### 🌐 مشاريع الويب
 - **[Portfolio Website](https://github.com/MalikAliQassem/portfolio)** - موقعي الشخصي
@@ -87,11 +138,11 @@
 
 </div>
 
-## 📞 تواصل معي
+## 📞 
 
 <div align="center">
 
-### 💼 للحصول على خدمات التطوير
+<!-- ### 💼 للحصول على خدمات التطوير -->
 - 📧 **البريد الإلكتروني:** malik.kharman@gmail.com
 <!-- - 🌐 **الموقع الإلكتروني:** https://malikaliqassem.dev -->
 - 💼 **LinkedIn:** [Malik Ali Qassem](https://www.linkedin.com/in/مالك-علي-قاسم-الكرماني-4494a9230)
