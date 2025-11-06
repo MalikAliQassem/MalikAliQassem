@@ -8,17 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik.kharman@gmail.com)
 
 </div>
-<div align="center">
 
-# 🚀 مرحباً، أنا مالك علي قاسم! 
-### **مطور Flutter & Mobile Applications**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malikaliqassem)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malikaliqassem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://malikaliqassem.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malik@aliqassem.com)
-
-</div>
 
 ## 📊 إحصائياتي على GitHub
 
@@ -34,15 +24,6 @@
   <img alt="MalikAliQassem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAliQassem&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&hide=html,css,scss" height="195px"/>
 </a>
 
-### 📈 إحصائيات عامة
-<a href="https://github.com/MalikAliQassem">
-  <img alt="MalikAliQassem's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MalikAliQassem&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&line_height=28&rank_icon=github" height="195px"/>
-</a>
-
-### 💻 لغات البرمجة
-<a href="https://github.com/MalikAliQassem">
-  <img alt="MalikAliQassem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAliQassem&langs_count=12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="195px"/>
-</a>
 
 ### 🏆 الإنجازات
 <img alt="MalikAliQassem's Trophy Graph" src="https://github-profile-trophy.vercel.app/?username=MalikAliQassem&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=4" />
